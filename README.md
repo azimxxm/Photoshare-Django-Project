@@ -10,3 +10,13 @@
 
 
 ![images detail](https://user-images.githubusercontent.com/76002783/147762745-f20368dc-ac30-4a32-b108-fffce5430f25.PNG)
+
+
+```bash
+
+# Login: azimjon
+
+# password: 102030
+
+
+```
